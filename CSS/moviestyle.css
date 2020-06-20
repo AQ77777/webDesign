@@ -1,0 +1,133 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+header{
+    margin: 0 auto;
+    width: 1200px;
+    height: 100px;
+    background-color: #252620;
+}
+#thetitle{
+    width: 50%;
+    height: 80%;
+}
+#survey{
+    padding-left: 100px;
+}
+body{
+    font-size: 14px;
+}
+#container{
+    margin: 0 auto;
+    width: 1200px;
+    height: 600px;
+    /* background-color:#DCDDD7;  */
+    /* background-color: black; */
+    background-color: #404040;
+}
+#self{
+    width: 100%;
+    height: 200px;
+    text-align: center;
+    background-image: url("../img/realbg.jpg");
+    /* background-repeat: no-repeat; */
+    /* background-image: url("../img/bookbg.jpg"); */
+    /* background-color: purple; */
+}
+#movietou{
+    margin: auto;
+    margin-top: 20px;
+    width: 120px;
+    height: 120px;
+}
+#self-sentence{
+    padding-top: 10px;
+    font-size: 15px;
+    font-style: impact;
+    color:#DCDDD7 ;
+}
+#main{
+    width: 100%;
+    height: 400px;
+    /* background-color: black; */
+    background-color: #404040;
+}
+#inside{
+    margin: 0 auto;
+    width: 1000px;
+    height: 300px;
+    margin-top: 50px;
+    /* background-color: rosybrown; */
+    background-color: #202020;
+}
+#partshang{
+    width: 100%;
+    height: 150px;
+    /* background-color: #DDDED8; */
+}
+.shangdiv{
+    width: 250px;
+    height: 100%;
+    text-align: center;
+}
+#shang1{float: left;}
+#shang2{float:left;}
+#shang3{float: left;}
+#shang4{float: right;}
+.themovie{
+    width: 210px;
+    height: 120px;
+}
+#partxia{
+    width: 100%;
+    height: 150px;
+    /* background-color: #DDDED8; */
+}
+.xiadiv{
+    width: 250px;
+    height: 100%;
+    text-align: center;
+}
+#xia1{float: left;}
+#xia2{float: left;}
+#xia3{float: left;}
+#xia4{float: right;}
+.moviename{
+    text-align: center;
+    font-weight: bold;
+    color:#E4E5E0 ;
+}
+footer{
+    margin: 0 auto;
+    width: 1200px;
+    height: 100px;
+    background-color:#E4E5E0;
+}
+.thea{
+    width: 400px;
+    height: 100%;
+    padding-top: 30px;
+    text-align: center;
+}
+#tobook{
+    float: left;
+}
+#tomusic{
+    float: left;
+}
+#toindex{
+    float: right;
+}
+.pics{
+    width: 30px;
+    height: 30px;
+}
+a{
+    color: grey;
+    font-size: 30px;
+    text-decoration: none;
+}
+a:hover{
+    color: honeydew;
+}

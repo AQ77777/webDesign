@@ -1,0 +1,136 @@
+*{
+    padding: 0;
+    margin: 0;
+    /* background-color:palegoldenrod ; */
+    background-color: #6C6F90;
+    /* background-color: #757A9A; */
+    /* background-image: url("../img/surveybg.jpg"); */
+    /* background-repeat: repeat-x; */
+}
+header{
+    margin: 0 auto;
+    width: 1000px;
+    height: 40px;
+    text-align: left;
+    font-size: 30px;
+    color: blanchedalmond;
+    /* padding-top: 20px; */
+    background-color: #AA8863;
+    /* background-color: #E2E3DE; */
+}
+#container{
+    margin: auto;
+    width: 1000px;
+    height: 1100px;
+    /* background-color:#DCDDD7;  */
+    /* background-color: #757A9A; */
+    /* background-image: url("../img/surveybg.jpg"); */
+
+}
+.ltitle{
+    width: 100%;
+    height: 40px;
+    /* background-color: chocolate; */
+    /* padding-top: 15px; */
+    /* padding-top: 5px; */
+    /* margin-top: 10px; */
+    text-align: center;
+} 
+.tubiao{
+    width: 30px;
+    width: 30px;
+    /* padding-top: 10px; */
+}
+.biaoti{
+    font-size: 30px;
+    font-weight: bold;
+    color: seashell;
+}
+.surveylist{
+    width: 500px;
+    height: 260px;
+    text-align: center;
+}
+#bookleft{float: left;background-color: #757A9A;}
+#bookright{float: right;    background-color: #757A9A;}
+#musicleft{float: left;    background-color: #757A9A;}
+#musicright{float: right;    background-color: #757A9A;}
+#movieleft{float: left;    background-color: #757A9A;}
+#movieright{float: right;    background-color: #757A9A;}
+ul{
+    list-style: none;
+    text-align: left;
+    padding-left: 30px;
+    padding-top: 30px;
+    line-height: 25px;
+    /* background-color: palegreen; */
+    background-color: #757A9A;
+
+}
+li{
+    /* font-size: 10px; */
+    color: seashell;
+}
+.tijiao{
+    /* text-align: center; */
+    /* padding-top: 20px; */
+    color: seashell;
+}
+.theimg{
+    width: 100%;
+    height: 100%;
+}
+#book{
+    width: 100%;
+    height: 300px;
+    background-color: honeydew;
+
+}
+
+#music{
+    width: 100%;
+    height: 300px;
+    background-color: hotpink;
+
+}
+
+#movie{
+    width: 100%;
+    height: 300px;
+    background-color: indianred;
+
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    color: black  ;
+}
+#jiaohu{
+    width:100%;
+    height: 200px;
+    /* background-color: coral; */
+    padding-top: 18px;
+    /* background-color: #6A5540; */
+    text-align: center;
+}
+#ketijiao{
+    background-color: cornsilk;
+}
+p{
+    color: cornsilk;
+}
+footer{
+    margin: auto;
+    width: 1000px;
+    height: 100px;
+    text-align: center;
+    padding-top: 40px;
+    /* background-color:#E4E5E0; */
+
+}
+#index{
+    font-size: 40px;
+    /* color: silver; */
+    text-decoration: none;
+}

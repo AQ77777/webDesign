@@ -1,0 +1,170 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    font-size: 14%;
+}
+#container{
+    margin: 0 auto;
+    width: 1200px;
+    height: 800px;
+    background-color:purple;  
+}
+#aside{
+    float: left;
+    width: 35%;
+    height: 100%;
+    background-color: blue;
+}
+#theheadpic{
+    float: left;
+    width: 40%;
+    height: 100%;
+    background-color:#35467A ;
+}
+#img1{
+    /* margin: 0 auto; */
+    width: 60%;
+    padding-top: 28%;
+    padding-left: 20%;
+    /* border: 2px black solid; */
+    /* margin: 0 auto; */
+
+    /* padding-left: 20%; */
+}
+#sentence{
+    float: right;
+    width: 60%;
+    height: 100%;
+    /* font-size: 15px; */
+    /* text-align:center;   */
+    /* padding-top: 50px; */
+    background-color: darkgrey;
+}
+#img2{
+    width: 100%;
+    height: 100%;
+}
+#thehead{
+    width: 100%;
+    height: 200px;
+    background-color: burlywood;
+}
+#name{
+    width: 100%;
+    height: 50px;
+    /* text-align: center; */
+    padding-left: 20px;
+    padding-top: 20px;
+    /* background-image: url("../img/img3.jpg"); */
+    /* background-repeat: no-repeat; */
+    color: cornsilk;
+    background-color: #35467A;
+}
+#infolist{
+    width: 100%;
+    height:250px;
+    background-color: #35467A;
+}
+#contactway{
+    padding-left: 20px;
+    padding-top: 20px;
+    font-size: 20px;
+    list-style: none;
+    font-weight: bold;
+}
+.img4{
+    width: 20px;
+    height: 20px;
+}
+/* #tel{
+    list-style-image: url("../img/phone.png") ;
+} */
+#self-introduction{
+    width: 100%;
+    height:180px ;
+    /* padding-left: 20px; */
+    /* padding-right: 20px; */
+    padding-top: 20px;
+    color: cornsilk;
+    background-color: #35467A;
+}
+#pic{
+    width: 100%;
+    height: 80px;
+    background-color: coral;
+}
+#img3{
+    width: 100%;
+    height: 100%;
+}
+#main{
+    float: right;
+    width: 65%;
+    height: 100%;
+    background-color: brown;
+}
+#shang{
+    width: 100%;
+    height: 500px;
+    /* background-image: url("../img/img5.jpg"); */
+    /* background-repeat: no-repeat; */
+    /* background-color: cornsilk; */
+}
+#img5{
+    width: 100%;
+    height: 100%;
+}
+#xia{
+    width: 100%;
+    height: 300px;
+    background-color:#DCD7EB;
+}
+#reading{
+    float: left;
+    width: 260px;
+    height: 100%;
+    text-align: center;
+    padding-top: 120px;
+    /* background-color: crimson; */
+}
+#bookpic{
+    width: 20px;
+    height: 20px;
+}
+#music{
+    float: left;
+    width: 260px;
+    height: 100%;
+    text-align: center;
+    padding-top: 120px;
+    /* background-color: cyan; */
+}
+#musicpic{
+    width: 25px;
+    height: 25px;
+}
+#movie{
+    float: right;
+    width: 260px;
+    height: 100%;
+    text-align: center;
+    padding-top: 120px;
+    /* background-color: darkblue; */
+}
+#moviepic{
+    width: 25px;
+    height: 25px;
+}
+a{
+    font-style: normal;
+    font-size: 30px;
+    font-weight: bold;
+    color: black;
+    /* text-align: center; */
+    text-decoration: none;
+}
+a:hover{
+    color: #103D62;
+}
